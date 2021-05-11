@@ -1,6 +1,5 @@
 const express = require("express");
 const Mongoose = require("mongoose");
-const { PORT } = process.env;
 
 var app = express();
 
